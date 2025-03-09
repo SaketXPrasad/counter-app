@@ -2,7 +2,7 @@
 A simple yet powerful **Counter App** built with **HTML, CSS, and JavaScript**. This app allows you to **count, reset, and store previous counts**, displaying them in a **dash-separated format**. 🚀  
 
 ## ✨ Features  
-- **Increment & Decrement Count** – Increase or decrease the counter with a click.  
+- **Increment Count** – Increase the counter with a click.  
 - **Reset Functionality** – Reset the count to start fresh.  
 - **History Tracking** – Stores previous counts and displays them separated by dashes.  
 - **Lightweight & Fast** – Built using pure HTML, CSS, and JavaScript.  
@@ -19,7 +19,7 @@ Here's how the **Counter App** looks:
 ## 🚀 Getting Started  
 1. **Clone the repository:**  
    ```bash
-   git clone https://github.com/yourusername/counter-app.git  
+   git clone https://github.com/SaketXPrasad/counter-app.git  
    ```  
 2. **Navigate into the project folder:**  
    ```bash
